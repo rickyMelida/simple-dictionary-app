@@ -1,0 +1,38 @@
+div {
+  font-size: 1.5rem;
+}
+
+
+.title {
+  font-size: 2.5vh;
+  padding: 5% 0;
+}
+
+.sub-title {
+  font-size: 2.3vh;
+}
+
+.word {
+  font-size: 2.5rem;
+}
+
+.word-type {
+  font-size: 2.4;
+}
+
+.form-control {
+  height: 4.5vh;
+  border: 2px solid rgb(17, 17, 17) !important;
+  font-size: 2.5rem;
+}
+
+button {
+  height: 2.5vh;
+  width: 7.5rem;
+  border: 2px solid rgb(17, 17, 17) !important;
+}
+
+.btn {
+  font-size: 2rem;
+  height: 4.5vh;
+}

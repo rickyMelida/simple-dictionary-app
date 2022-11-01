@@ -1,0 +1,7 @@
+.my-audio {
+  width: 2em;
+}
+
+.my-audio:hover {
+  cursor: pointer;
+}
